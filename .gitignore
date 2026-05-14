@@ -1,0 +1,17 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+*.exe
+*.mp3
+*.mp4
+# IDE
+.vscode/
+.idea/
+# OS
+.DS_Store
+Thumbs.db
